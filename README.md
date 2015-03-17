@@ -6,15 +6,15 @@ Bootstrap my home environment (useful for other people, not just me -- that's wh
 Usage
 =====
 
-     curl https://raw.github.com/dmsasser/home-bootstrap/master/BOOTSTRAP.sh | bash
+     curl https://raw.github.com/deweysasser/home-bootstrap/master/BOOTSTRAP.sh | bash
 
 or, if you don't have curl you can use wget
 
-     wget -O- https://raw.github.com/dmsasser/home-bootstrap/master/BOOTSTRAP.sh | bash
+     wget -O- https://raw.github.com/deweysasser/home-bootstrap/master/BOOTSTRAP.sh | bash
 
 or, of course
 
-     git clone https://github.com/dmsasser/home-bootstrap && bash home-bootstrap/BOOTSTRAP.sh
+     git clone https://github.com/deweysasser/home-bootstrap && bash home-bootstrap/BOOTSTRAP.sh
 
  
 

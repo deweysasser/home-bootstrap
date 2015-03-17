@@ -15,7 +15,7 @@ fi
 if  "$vcsh" list | grep shared  ; then
     echo "Looks like you're already bootstraped with a 'shared' repository"
 else
-    "$vcsh" clone https://github.com/dmsasser/home-shared shared
+    "$vcsh" clone https://github.com/DeweySasser/home-shared shared
     export PATH="$HOME/bin:$PATH"
 
     mr -d "$HOME" up
